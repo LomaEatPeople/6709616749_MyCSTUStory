@@ -1,0 +1,60 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(2, 87, 2);
+}
+.first{
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(98, 252, 149);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px;
+    margin: 50px;
+}
+.selfimg {
+    width: 150px;
+    height: auto;
+    padding: 0px;
+    border: 2px solid rgb(0, 0, 0);
+    background-origin: padding-box;
+    margin-bottom: 10px;
+}
+#flick{
+    padding: 5px;
+    background-color: rgb(98, 252, 149);
+    border-radius: 5px;
+    box-shadow: 0 5px 5px;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.Video {
+    padding: 5px;
+    background-color: rgb(98, 252, 149);
+    border-radius: 5px;
+    box-shadow: 0 5px 5px;
+    margin: 50px;
+}
+.Text02 {
+    margin: 10px;
+}
+li{
+    padding-bottom: 15px;
+}
+.Text01 {
+    margin-left: 40px;
+    margin-bottom: 25px;
+}
+.header1 {
+    text-align: center;
+}
+.VDO {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding: 0px;
+}
