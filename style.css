@@ -62,13 +62,14 @@ li{
 }
 .second{
     width: 100%;
-    background-color: #52a34b;
+    background-color: olivedrab;
     margin: 0%;
     padding-bottom: 0px;
     border: 2px solid rgb(48, 33, 2);
     border-left: 1px solid rgb(48, 33, 2);
 }
 .second1{
+    background-color: olive;
     float: left;
     width: 15%;
     height: 600px;
@@ -77,15 +78,15 @@ li{
 }
 .second2{
     float: right;
-    width: 84.4%;
+    width: 84.7%;
     height: 600px;
     background-color: beige;
 }
 .Text021{
     margin: 0px;
     padding-left: 50px;
-    padding-top: 25px;
-    padding-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 20px;
     font-family: cursive;
 }
 .P1{
@@ -125,19 +126,19 @@ li{
 .P21{
     margin: 0;
     padding: 5px;
-    padding-top: 32px;
+    padding-top: 50px;
     padding-left: 40px;
 }
 .P31{
     margin: 0;
     padding: 5px;
-    padding-top: 19px;
+    padding-top: 40px;
     padding-left: 40px;
 }
 .P41{
     margin: 0;
     padding: 5px;
-    padding-top: 19px;
+    padding-top: 40px;
     padding-left: 40px;
 }
 nav {
@@ -163,4 +164,12 @@ nav a:hover {
 }
 .welcoe{
     float: left;
+}
+.itim-regular {
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    font-family: 'Itim';
 }
