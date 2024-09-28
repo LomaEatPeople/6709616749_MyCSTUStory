@@ -77,7 +77,7 @@ li{
 }
 .second2{
     float: right;
-    width: 84.6%;
+    width: 84.4%;
     height: 600px;
     background-color: beige;
 }
@@ -139,4 +139,28 @@ li{
     padding: 5px;
     padding-top: 19px;
     padding-left: 40px;
+}
+nav {
+    margin-top: 10px;
+    margin: 20px;
+}
+
+nav a {
+    color: #f3fff0; 
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 10px;
+    float: right;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.OR{
+    margin-left: 20px;
+}
+.warp{
+    padding-bottom: 1px;
+}
+.welcoe{
+    float: left;
 }
