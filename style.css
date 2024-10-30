@@ -224,3 +224,45 @@ p{
     height: 600px;
     background-color: beige;
 }
+@media (max-width: 360px){
+    body{
+        font-size: 12px;
+    }
+    .warp{
+        padding-bottom: 1px;
+        text-align: center;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    nav a {
+        color: #f3fff0; 
+        text-decoration: none;
+        font-size: 10px;
+        background-color: #4e8542;
+        padding: 10px 20px;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+}
+@media (max-width: 768px){
+    body{
+        font-size: 15px;
+    }
+    .warp{
+        padding-bottom: 1px;
+        text-align: center;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    nav a {
+        color: #f3fff0; 
+        text-decoration: none;
+        font-size: 14px;
+        background-color: #4e8542;
+        padding: 10px 20px;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+}
